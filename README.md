@@ -9,7 +9,7 @@ A CLI application for managing a company's employees using node, inquirer, and M
 
 ## Visuals
 
-![TrackerGif](./Assets/tracker.gif)
+![TrackerGif](./Assets/track.gif)
 
 ### Table of Contents
 * [Usage](#Usage)
